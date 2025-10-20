@@ -13,7 +13,7 @@ const Project2: React.FC = () => {
             <img src="/assets/2.jpg" alt="Project 2 image" />
 
             <p>
-                This is a detailed description of Project 1. It includes information about the project's scope, objectives, and outcomes. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi ea a, ipsum reprehenderit nihil magnam sunt iure consequatur! Debitis harum commodi iusto animi modi soluta ea provident a dolore distinctio.
+                This is a detailed description of Project 2. It includes information about the project's scope, objectives, and outcomes. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi ea a, ipsum reprehenderit nihil magnam sunt iure consequatur! Debitis harum commodi iusto animi modi soluta ea provident a dolore distinctio.
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe reprehenderit, exercitationem commodi error laudantium facere dolore, ex sequi laboriosam optio, harum minus nostrum iure eligendi id sapiente repellendus eius pariatur?
             </p>
 
